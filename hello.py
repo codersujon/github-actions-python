@@ -1,1 +1,0 @@
-print("Cargoaim, Developers Team!")
